@@ -7,6 +7,7 @@ Group:		Applications
 Source0:	https://github.com/languitar/pass-git-helper/archive/v%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	991e196f1d6a31939b3c818f64e7594d
 URL:		https://github.com/languitar/pass-git-helper
+BuildRequires:	python3
 BuildRequires:	python3-modules >= 1:3.7
 BuildRequires:	python3-setuptools
 BuildRequires:	rpm-pythonprov
