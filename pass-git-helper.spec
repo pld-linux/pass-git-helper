@@ -1,11 +1,11 @@
 Summary:	A git credential helper interfacing with pass
 Name:		pass-git-helper
-Version:	4.0.0
+Version:	4.2.0
 Release:	1
 License:	LGPL v3+
 Group:		Applications
 Source0:	https://github.com/languitar/pass-git-helper/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	b70ff00afa81294cca135af452116151
+# Source0-md5:	2402e9679a33a66e768c983a77f17cd6
 URL:		https://github.com/languitar/pass-git-helper
 BuildRequires:	python3 >= 1:3.11
 BuildRequires:	python3-modules >= 1:3.11
